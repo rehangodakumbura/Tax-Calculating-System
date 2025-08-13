@@ -41,7 +41,7 @@ TaxCalculator/
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/TaxCalculator.git
+   git clone https://github.com/rehangodakumbura/Tax-Calculating-System.git
    
 2.Navigate into the project folder:
   cd TaxCalculator
